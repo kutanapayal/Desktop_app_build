@@ -1,6 +1,6 @@
 # Desktop_app_ubuntu_build
 
-**You Can Install Dependancies By This Command**
+**To Install Dependancies Run This Command**
 
       <sub>pip3 install -r requirements.txt </sub>
 
