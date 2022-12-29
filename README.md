@@ -1,8 +1,11 @@
-**How To Use Time Tracker**
+# How To Use Time Tracker
 
 1.. Download the folder and save it to local with unzipped
+
 2.. Open the dist/time_tracker
+
 3.. The app will start executing
+
 4.. Firstly you need to sign in with google. And then you are redirected to main timer window.	
 5.. Now to start the timer. Click on the Start button beside the Work-Development.
 6.. After clicking on the start the Time tracking will be started.
