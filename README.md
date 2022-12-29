@@ -12,8 +12,8 @@
 
 6.. After clicking on the start the Time tracking will be started.
 
-7.. You can find log files into folder named time_tracker_2.0 
-    - LOG : /home/time_tracker_2.0
+7.You can find log files into folder named time_tracker_2.0 
+  * LOG : /home/time_tracker_2.0
 	
 8.. Under the log folder you may find the 4 kind of log 
 	- minute_drill_down : Every Minute activity
