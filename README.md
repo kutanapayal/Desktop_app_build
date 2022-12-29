@@ -6,7 +6,7 @@
       
  **To Run The Script**
  
-      python3 time_tracker.py
+     python3 time_tracker.py
 
 **To Create Ubuntu Build Use the Following Command**
 
