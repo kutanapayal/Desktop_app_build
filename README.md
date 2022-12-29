@@ -3,6 +3,9 @@
 **To Install Dependancies Run This Command**
 
       <sub>pip3 install -r requirements.txt </sub>
+      
+ **To Run The Script**
+      <sub>python3 time_tracker.py</sub>
 
 **To Create Ubuntu Build Use the Following Command**
 
